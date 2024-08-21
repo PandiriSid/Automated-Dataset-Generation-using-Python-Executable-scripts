@@ -51,4 +51,9 @@ Numpy
 ## Output
 The final output is an Excel file containing the processed data, with only the required fields calculated and included. This file is fully prepared and can be used immediately for further analysis or reporting.
 ## Exe Outputs
+![image](https://github.com/user-attachments/assets/1c16bc3b-1a7f-4d38-833c-169dcc0f2fb7)
+
+![image](https://github.com/user-attachments/assets/77ae441f-1112-4c10-bcfd-da3eb82d4d84)
+
+![image](https://github.com/user-attachments/assets/09d2a6b9-835f-4ce0-89f0-111f852eed12)
 
